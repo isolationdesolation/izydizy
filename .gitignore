@@ -1,0 +1,9 @@
+*/**/*~
+.cache
+.pytest_cache/**/*
+*.testlog
+venv*/
+.idea/
+__pycache__
+*.pkl
+*.log
